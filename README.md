@@ -55,6 +55,15 @@ The Bank Management System is a web-based application built using PHP and MySQL.
 
    -> Password : cashier1
 
+User Account :
+![{91F3A5EA-A44B-4C69-8C9F-AE8C7D0A9AE9}](https://github.com/user-attachments/assets/60cf50c1-7b6c-415d-88a1-33e8f7ee8533)
+
+Manager Account :
+![{05D9D9D5-8348-4605-AEDF-B3AC3F49185B}](https://github.com/user-attachments/assets/20a86136-4895-419a-80a9-2e6999a12dcb)
+
+Cashier Account :
+![{E4F922CB-D6C6-45AF-AA52-FE8FE90DED94}](https://github.com/user-attachments/assets/f267d8e3-efc2-49d5-92f0-70149725add4)
+
 
        
     
