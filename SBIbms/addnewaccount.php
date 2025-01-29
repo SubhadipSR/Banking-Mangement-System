@@ -254,7 +254,7 @@ if (isset($_GET['del']) && !empty($_GET['del']))
                                 <div class="col-sm-6 col-md-6 col-xs-12">  
                                     <div class="form-group">  
                                         <label>Aadhaar card </label>  
-                                        <input type="tel" id="aadhaar" name="aadhaar" pattern="^\d{12}$"  placeholder="Enter Your 16 digit Aadhaar number "class="form-control"  required />  
+                                        <input type="tel" id="aadhaar" name="aadhaar" pattern="^\d{12}$"  placeholder="Enter Your 12 digit Aadhaar number "class="form-control"  required />  
                                         <div class="invalid-feedback">  
                                         Please Enter Your Aadhaar card
                                         </div>
